@@ -1,0 +1,16 @@
+.level-dock {
+    max-width: 95%;
+    background-color: #E7EBF0;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: calc(10px + 2vmin);
+    color: black;
+
+    padding-left: 3vw;
+    padding-right: 1vw;
+    padding-top: 8vh;
+
+    opacity: 0.8;
+}
